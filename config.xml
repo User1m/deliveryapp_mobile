@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.claudiusmbemba.deliveryapp" version="1.0.0">
-  <name>deliveryapp</name>
+  <name>Liquory</name>
   <description>
     A liquor delivery/pickup app.
   </description>
