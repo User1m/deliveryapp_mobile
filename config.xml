@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.claudiusmbemba.deliveryapp" version="1.0.0">
   <name>Liquory</name>
   <description>
-    The leading search and discovery engine for finding alcoholic beverages in your local area. But why not spread the love and send a drink to a friend too!
+    Alcohol delivery app. Purchase alcohol from local merchants and get it delivered to you or pick it up if you’d like. But why stop there? Why not spread the love and purchase a drink for a friend too. Have it delivered right to them!
   </description>
   <author email="mbemabc@gmail.com" href="http:www.claudiusmbemba.com">
     Claudius Mbemba
