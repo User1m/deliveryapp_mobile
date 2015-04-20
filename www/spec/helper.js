@@ -16,18 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-afterEach(function() {
-    document.getElementById('stage').innerHTML = '';
-});
-
-var helper = {
-    trigger: function(obj, name) {
-        var e = document.createEvent('Event');
-        e.initEvent(name, true, true);
-        obj.dispatchEvent(e);
-    },
-    getComputedStyle: function(querySelector, property) {
-        var element = document.querySelector(querySelector);
-        return window.getComputedStyle(element).getPropertyValue(property);
-    }
-};
+afterEach(function(){document.getElementById("stage").innerHTML=""})
+var helper={trigger:function(e,t){var n=document.createEvent("Event")
+n.initEvent(t,!0,!0),e.dispatchEvent(n)},getComputedStyle:function(e,t){var n=document.querySelector(e)
+return window.getComputedStyle(n).getPropertyValue(t)}}
